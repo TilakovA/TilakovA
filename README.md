@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+[![Gmail](https://img.shields.io/badge/Gmail-anvarbek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micrasoftmobile77@gmail.com)
 ---
 
 ### 📫 Menga bog‘lanish
