@@ -1,16 +1,34 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anvarbek%20Tilakov&fontSize=40&fontAlignY=35&fontColor=fff)
 
-<!--
-**TilakovA/TilakovA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Salom, men Anvarbek Tilakov!
 
-Here are some ideas to get you started:
+- 🚀 Dasturlashga qiziqaman va yangi texnologiyalarni o‘rganmoqdaman.
+- 🔥 HTML, CSS va JavaScript'dan foydalangan holda loyihalar yarataman.
+- 📚 Hozirda **React, Tailwind CSS, Next.js va Framer Motion** ni o‘rganmoqdaman.
+- 🎯 Maqsadim — kuchli frontend dasturchi bo'lish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Statistikalarim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnvarbekTilakov&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnvarbekTilakov&layout=compact&theme=radical)
+
+---
+
+### 🚀 Texnologiyalar
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### 📫 Menga bog‘lanish
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TmAlonee_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvarbektilakov021)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
